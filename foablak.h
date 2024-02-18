@@ -10,5 +10,8 @@ class FoAblak : public QMainWindow
 public:
     FoAblak(QWidget *parent = nullptr);
     ~FoAblak();
+
+private slots:
+    void connectSlot();
 };
 #endif // FOABLAK_H
