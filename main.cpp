@@ -1,4 +1,4 @@
-#include "foablak.h"
+    #include "foablak.h"
 
 #include <QApplication>
 #include <QLocale>
